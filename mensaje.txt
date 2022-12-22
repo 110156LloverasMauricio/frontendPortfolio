@@ -1,2 +1,6 @@
 Hola mierdas
 modificado desde el repositorio Remoto, de la rama branch desarrollo luego un pull request a la rama main, para actualizar  la rama principal o de produccion
+Vuelto a modificar, luego de guardar los cambios en el archivo en la rama de desarrollo, Commit changes, commit directly to the desarrollo banch
+-- ir a COmpare a Pull Request
+Abre una peticion-request de hacer un Pull desde la rama-branch edsarrollo al branch main
+Esa peticionhay que confirmar Commit y Merge para que fusione los archivos que se compararon y se encontraron cambios como es el caso de este txt
